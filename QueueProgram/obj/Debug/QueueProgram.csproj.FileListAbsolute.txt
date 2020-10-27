@@ -1,0 +1,11 @@
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.exe.config
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.exe
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.pdb
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csprojAssemblyReference.cache
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.CashierWindowQueueForm.resources
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.Form1.resources
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.Properties.Resources.resources
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csproj.GenerateResource.cache
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.exe
+C:\Users\Pj Arago\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.pdb
